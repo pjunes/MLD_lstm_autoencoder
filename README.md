@@ -18,3 +18,4 @@ mse_1129_1000.pickle
 
 pred_1129_1000.pickle
 1000개의 파일을 대상으로 진행한 prediction의 결과
+용량 초과로 업로드 하지 
